@@ -1,5 +1,5 @@
 local set = require(script.Parent.Parent.Settings)
-local Loc = game:GetService("ServerStorage")["aDONIS-WebhookLogging-STORAGE"]
+local Loc = game:GetService("ServerStorage"):WaitForChild("ADONIS-WebhookLogging-STORAGE")
 
 server = nil 
 service = nil
