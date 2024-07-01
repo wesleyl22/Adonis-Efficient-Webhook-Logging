@@ -1,5 +1,5 @@
 local set = require(script.Parent.Parent.Settings)
-local Loc = game:GetService("ServerStorage")["REMXZ-AdminLogging-STORAGE"]
+local Loc = game:GetService("ServerStorage")["aDONIS-WebhookLogging-STORAGE"]
 
 server = nil 
 service = nil
